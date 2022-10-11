@@ -1,0 +1,522 @@
+{
+  "-9.6641399, -35.7244978": {
+    "destination_addresses": [
+      "Av. Comendador Le\u00e3o, 729 - Po\u00e7o, Macei\u00f3 - AL, 57025-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.7 km",
+              "value": 1715
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 332
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.667267299999999, -35.7252665": {
+    "destination_addresses": [
+      "Av. Comendador Le\u00e3o, 379 - Jaragu\u00e1, Macei\u00f3 - AL, 57022-240, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1008
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 220
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.667249, -35.7252135": {
+    "destination_addresses": [
+      "Av. Comendador Le\u00e3o, 379 - Jaragu\u00e1, Macei\u00f3 - AL, 57022-240, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.0 km",
+              "value": 1014
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 221
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6570032, -35.733191": {
+    "destination_addresses": [
+      "Av. Tom\u00e1s Esp\u00edndola, 278 - Farol, Macei\u00f3 - AL, 57051-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1867
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 296
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6569335, -35.73324770000001": {
+    "destination_addresses": [
+      "R. Alexandre Nobre, 6 - Farol, Macei\u00f3 - AL, 57051-060, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1874
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 298
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.659996999999999, -35.7233481": {
+    "destination_addresses": [
+      "Av. Comendador Le\u00e3o, 1178 - Po\u00e7o, Macei\u00f3 - AL, 57025-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.9 km",
+              "value": 1944
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 357
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6570985, -35.723843": {
+    "destination_addresses": [
+      "R. Comendador Cala\u00e7a, 1615 - Po\u00e7o, Macei\u00f3 - AL, 57025-640, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2.4 km",
+              "value": 2371
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 441
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6700278, -35.7222336": {
+    "destination_addresses": [
+      "R. Melo P\u00f3voas, 223 - Jaragu\u00e1, Macei\u00f3 - AL, 57022-230, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "1.5 km",
+              "value": 1530
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 314
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6554153, -35.7240287": {
+    "destination_addresses": [
+      "R. Cel. Paranhos, 294 - Jacintinho, Macei\u00f3 - AL, 57040-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2.7 km",
+              "value": 2694
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 483
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6701933, -35.7403086": {
+    "destination_addresses": [
+      "Av. Assis Chateaubriand, 2340 - Centro, Macei\u00f3 - AL, 57020-755, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2.0 km",
+              "value": 1955
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 342
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.658104699999999, -35.7182928": {
+    "destination_addresses": [
+      "R. Pres. Agostinho da Silva Neves, 872 - Po\u00e7o, Macei\u00f3 - AL, 57025-245, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2.8 km",
+              "value": 2817
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 501
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6537948, -35.739489": {
+    "destination_addresses": [
+      "Av. Gov. Afr\u00e2nio Lages, 140 - Centro, Macei\u00f3 - AL, 57050-015, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2.3 km",
+              "value": 2254
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 413
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.670230100000001, -35.7163476": {
+    "destination_addresses": [
+      "R. Jangadeiros Alagoanos, 460A - Paju\u00e7ara, Macei\u00f3 - AL, 57030-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "3.1 km",
+              "value": 3139
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 402
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6626625, -35.7469086": {
+    "destination_addresses": [
+      "R. Santo Ant\u00f4nio, 7 - Levada, Macei\u00f3 - AL, 57017-018, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "2.8 km",
+              "value": 2783
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 487
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.652521499999999, -35.7174401": {
+    "destination_addresses": [
+      "R. Greg\u00f3rio Fontan Branco, 13 - Jati\u00faca, Macei\u00f3 - AL, 57036-200, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "3.1 km",
+              "value": 3051
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 496
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.668688699999999, -35.7471109": {
+    "destination_addresses": [
+      "Av. Siqueira Campos, 721 - Prado, Macei\u00f3 - AL, 57010-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "3.2 km",
+              "value": 3186
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 505
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.646059, -35.7345251": {
+    "destination_addresses": [
+      "Av. Fernandes Lima, 533 - Farol, Macei\u00f3 - AL, 57055-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "4.0 km",
+              "value": 3953
+            },
+            "duration": {
+              "text": "12 mins",
+              "value": 715
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.6709213, -35.750257": {
+    "destination_addresses": [
+      "R. Edgar de G\u00f3es Monteiro, 664 - Prado, Macei\u00f3 - AL, 57010-140, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "3.3 km",
+              "value": 3317
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 495
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.645111499999999, -35.7131138": {
+    "destination_addresses": [
+      "Av. Comendador Gustavo Paiva, 3393 - Cruz das Almas, Macei\u00f3 - AL, 57038-000, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "4.1 km",
+              "value": 4143
+            },
+            "duration": {
+              "text": "11 mins",
+              "value": 667
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "-9.644477, -35.713664": {
+    "destination_addresses": [
+      "Av. Gov. Afr\u00e2nio Lages, 117 - Mangabeiras, Macei\u00f3 - AL, 57050-015, Brazil"
+    ],
+    "origin_addresses": [
+      "Avenida Dep.Humberto Mendes, 609-637 - Centro, Macei\u00f3 - AL, Brasil - Centro, Macei\u00f3 - AL, 57020-580, Brazil"
+    ],
+    "rows": [
+      {
+        "elements": [
+          {
+            "distance": {
+              "text": "5.1 km",
+              "value": 5065
+            },
+            "duration": {
+              "text": "11 mins",
+              "value": 661
+            },
+            "status": "OK"
+          }
+        ]
+      }
+    ],
+    "status": "OK"
+  }
+}

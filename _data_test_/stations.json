@@ -1,0 +1,996 @@
+{
+ "html_attributions": [],
+ "next_page_token": "Aap_uEC8D0ig5qgldexLyuSSBOQZFClvJxkEDH_Tst_WsqCh7dYqFAOyIZub9n3E-r30qmOWctzrulSc5tWVuRXsmSi2BDGaL_aXjQwddVJ_JK_v0zbum8x4m-uboag1HEOa__DbLLbYd2EdcVEDQJItToKYUsAGjXnpM4DnaOALt4bWzoaf8hV1VkK9o6GqI44XXwvs6ixKRgK5KlW1INT_V2tB4F7ka5sSdoD8qT9_44-01IjL6cSoOpFAX8tx6Fa3jKLqlBksvpxRFfZ_s8OLtqI-oMz2GDuNhU89fQNeXblfWHCeSwf2UmiQ1X3cxWkK97VrGcX7MqU_tpqeKgReCuUrTYucKsCdsXCURd2475qnz2q9xEZfhwyKaQ5LgmNR3NB8a2yUP0niYy3N1ZFl9NYXTaYb21ZTqCFTfJf1K6KP9Iy7R0kqJHbskiuHUnh64hZ34Sc",
+
+ "results": [
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6641399,
+             "lng": -35.7244978
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.662780270107278,
+                "lng": -35.72316852010729
+             },
+             "southwest": {
+                "lat": -9.665479929892722,
+                "lng": -35.72586817989273
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Petrobras + GNV",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 3120,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110711182225982480558\">wilson Pacheco</a>"
+             ],
+             "photo_reference": "Aap_uEDywz0zNlSfW3cjai_MEskuFK7eMHKKajRXekwaGMet9oPYOvxGYUlgxMB3IZoojjA2YzCrSplex-OTStiCqHeblIU7BRfhJ11bIOwzqNRRt7TzAyoKH8VPMehUvZ5j-NRIn7UtNxvK_xUuWyWvr240IRsKIqKtCJ3nPgsYApcOEUsF",
+             "width": 4160
+          }
+       ],
+       "place_id": "ChIJj50Ag3ZFAQcRuGgiQqA6VHI",
+       "plus_code": {
+          "compound_code": "87PG+85 Po\u00e7o, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687PG+85"
+       },
+       "rating": 4.1,
+       "reference": "ChIJj50Ag3ZFAQcRuGgiQqA6VHI",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 312,
+       "vicinity": "Av. Comendador Le\u00e3o, 729 - Po\u00e7o, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.667267299999999,
+             "lng": -35.7252665
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.665930570107276,
+                "lng": -35.72380607010727
+             },
+             "southwest": {
+                "lat": -9.66863022989272,
+                "lng": -35.72650572989271
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Auto Posto Shell - sarandi",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 3264,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102951155491193867918\">C\u00edcero fran\u00e7a</a>"
+             ],
+             "photo_reference": "Aap_uECpigMz_haIK4m72Ovl9jttb7f0LKIbzXNE2_E4IXzNFixErAiATrG3UytpUKMHChz_H2ezX_NJA526i_b2Z_rBFby6FLA7MQQpDIj_2cWvG5ikl2BedXwlCr034Z94h-EtZ74z-ZhWwzbYaweUwdRzH9CpA2TZ0QZrFcMzBSR4shz2",
+             "width": 2448
+          }
+       ],
+       "place_id": "ChIJQ0OJQnFFAQcR0peyeIS9_aM",
+       "plus_code": {
+          "compound_code": "87MF+3V Po\u00e7o, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687MF+3V"
+       },
+       "rating": 4.2,
+       "reference": "ChIJQ0OJQnFFAQcR0peyeIS9_aM",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 131,
+       "vicinity": "Av. Walter Ananias, 1165 - Po\u00e7o, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.667249,
+             "lng": -35.7252135
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.665924520107279,
+                "lng": -35.72387372010728
+             },
+             "southwest": {
+                "lat": -9.668624179892722,
+                "lng": -35.72657337989273
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Shell",
+       "opening_hours": {
+          "open_now": true
+       },
+       "place_id": "ChIJaeD123JFAQcRNOhcAYkVeac",
+       "plus_code": {
+          "compound_code": "87MF+3W Jaragu\u00e1, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687MF+3W"
+       },
+       "price_level": 2,
+       "rating": 4.2,
+       "reference": "ChIJaeD123JFAQcRNOhcAYkVeac",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 37,
+       "vicinity": "Av. Walter Ananias, 1165 - Jaragu\u00e1, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6570032,
+             "lng": -35.733191
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.655647120107277,
+                "lng": -35.73192662010727
+             },
+             "southwest": {
+                "lat": -9.658346779892721,
+                "lng": -35.73462627989271
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Shell",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 2604,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101153627804186915687\">Flaudizio Filho</a>"
+             ],
+             "photo_reference": "Aap_uEAyNKfnkWvl3aGPRGvJmgwJwclJD_RAtUgGfwy3bcFphiszJw4FXzuItLsiaZJpQ0AkhIS4cbHXiJCI_WuKE-ygB2kQTI0bqwgDJzIBHW-7wPhxrzwFFWcfQ8VxEscKGjTZbXmMWo2k0iTN6M-iOOOOsFlQuzPPKVJ16EOAitBoIdz1",
+             "width": 4624
+          }
+       ],
+       "place_id": "ChIJD8Cad4RFAQcRq2fFs4ugTZA",
+       "plus_code": {
+          "compound_code": "87V8+5P Farol, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687V8+5P"
+       },
+       "price_level": 2,
+       "rating": 3.9,
+       "reference": "ChIJD8Cad4RFAQcRq2fFs4ugTZA",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "convenience_store",
+          "store",
+          "point_of_interest",
+          "food",
+          "establishment"
+       ],
+       "user_ratings_total": 109,
+       "vicinity": "Av. Tom\u00e1s Esp\u00edndola, 278 - Farol, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6569335,
+             "lng": -35.73324770000001
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.655579670107278,
+                "lng": -35.73195252010728
+             },
+             "southwest": {
+                "lat": -9.658279329892721,
+                "lng": -35.73465217989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Pratagy",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 2340,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106869059120458848820\">Marcelo Nogueira</a>"
+             ],
+             "photo_reference": "Aap_uEBL8R715Yo4XAA7RiLFoVGp9pkF6refrM9ctV49-LJi2ApcuQRMHXhQ0WB3avYiTmQgzH7SoxIZcqDwpln2WRqgxrxvvVL7EOyGFShxUeG_d5D_sh0id9DMC_pzGKOz-mC4tLvstUWB58WmcfgU2boBbfWnkkehRQN1QATIE_DI8yOI",
+             "width": 4160
+          }
+       ],
+       "place_id": "ChIJ4X-7d4RFAQcR4860bsDNv1s",
+       "plus_code": {
+          "compound_code": "87V8+6P Farol, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687V8+6P"
+       },
+       "rating": 4.1,
+       "reference": "ChIJ4X-7d4RFAQcR4860bsDNv1s",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 174,
+       "vicinity": "Av. Tom\u00e1s Esp\u00edndola, 278 - Farol, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.659996999999999,
+             "lng": -35.7233481
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.658638120107279,
+                "lng": -35.72204372010728
+             },
+             "southwest": {
+                "lat": -9.661337779892722,
+                "lng": -35.72474337989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto 4 Wheels",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 4608,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106531271992128534741\">Jide\u00e3o Melo</a>"
+             ],
+             "photo_reference": "Aap_uEBCOXKzXpKEBb0XELlsQfzkApl2f9ldO2aKslpnvNPSqRmX6lQuhETQU9yGDJL-NrNgL4aOSYE_K6BYOTmyDeiTid0yX8HnGiDN7mDcbnfVogx-xDjxY-2im85xwMME5i7Mix6cdQ4DsOZazqYcshhF2VZfyMq61QaNUqYAJ6F-K2wA",
+             "width": 3456
+          }
+       ],
+       "place_id": "ChIJ-5TGQnFFAQcRMKTWFp_SMHI",
+       "plus_code": {
+          "compound_code": "87RG+2M Po\u00e7o, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687RG+2M"
+       },
+       "rating": 3.9,
+       "reference": "ChIJ-5TGQnFFAQcRMKTWFp_SMHI",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 125,
+       "vicinity": "Av. Comendador Le\u00e3o, 1179 - Po\u00e7o, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6570985,
+             "lng": -35.723843
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.655715770107278,
+                "lng": -35.72244752010727
+             },
+             "southwest": {
+                "lat": -9.658415429892722,
+                "lng": -35.72514717989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Antas - Petrobras",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 3264,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111203451778089979023\">A Google User</a>"
+             ],
+             "photo_reference": "Aap_uECTipvNosiQl20Ws7g4rgFgUcCWT4xQXBOv7FwiFgCGAlrLoOeSE2BA_wgifUsz3Df7S2eNPgp1NDwa-SjWzDkLGD0TcDxDIHq8yxwwXcSGtZcadx-1hfLeBwzrY-uCQg4rG1YMxdHJ-qG1LtkeFPT_efzKif0bQTn-VveqkgTzGAWV",
+             "width": 1840
+          }
+       ],
+       "place_id": "ChIJa9NrTJlFAQcRmWdhdM2fjH4",
+       "plus_code": {
+          "compound_code": "87VG+5F Po\u00e7o, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687VG+5F"
+       },
+       "rating": 4.1,
+       "reference": "ChIJa9NrTJlFAQcRmWdhdM2fjH4",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 14,
+       "vicinity": "R. Comendador Cala\u00e7a, 1615 - Po\u00e7o, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6700278,
+             "lng": -35.7222336
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.668634970107279,
+                "lng": -35.72090047010728
+             },
+             "southwest": {
+                "lat": -9.671334629892723,
+                "lng": -35.72360012989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto ALE",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 2448,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115736625324593383859\">moises barbosa oliveira moises</a>"
+             ],
+             "photo_reference": "Aap_uED7e3VnGG0xso38Gcsxro_GBYYV2SOQVNg_lNmdCpRmtizUslUey3rMPnesyeqePLvU1rjGjIi0NC4-SlN8a3WBS7V93oR66Zy1fgc1sCeQe09Qwos2Subri_h2dWHilDHbxvnCe6JR1GhVTuys-M7CP38lHFx8Iu2CN2Dy8_Ds2nzC",
+             "width": 2448
+          }
+       ],
+       "place_id": "ChIJyWHWXHJFAQcRe17SUrAPBqs",
+       "plus_code": {
+          "compound_code": "87HH+X4 Jaragu\u00e1, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687HH+X4"
+       },
+       "rating": 3.7,
+       "reference": "ChIJyWHWXHJFAQcRe17SUrAPBqs",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 20,
+       "vicinity": "R. Melo P\u00f3voas, 223 - Jaragu\u00e1, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6554153,
+             "lng": -35.7240287
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.654026670107278,
+                "lng": -35.72274222010727
+             },
+             "southwest": {
+                "lat": -9.656726329892722,
+                "lng": -35.72544187989271
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto RF 24 Hrs Jacintinho",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 721,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100652358684351268717\">A Google User</a>"
+             ],
+             "photo_reference": "Aap_uECZui2ZIuL71-iGm09T8VP_xAW3i3RINXQ4pXfCTLkJwJA3fiy1qnQXJ9Iy_VUeQ8rg5_TqJWw-9-c2yOwP1LvkjgMy8RRXB_4Jhr7ggIZIieQ4h2AfIT1LiTcpCFwVOJpYvEnh2ATIWkS5UummhENyvY_Op_dQ8iuD15e6BOH9qxJ7",
+             "width": 1280
+          }
+       ],
+       "place_id": "ChIJBVImQeJFAQcRXwBHAgeQXEQ",
+       "plus_code": {
+          "compound_code": "87VG+R9 Jacintinho, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687VG+R9"
+       },
+       "rating": 4.2,
+       "reference": "ChIJBVImQeJFAQcRXwBHAgeQXEQ",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 100,
+       "vicinity": "R. Cel. Paranhos, 294 - Jacintinho, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6701933,
+             "lng": -35.7403086
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.668846570107279,
+                "lng": -35.73898352010728
+             },
+             "southwest": {
+                "lat": -9.671546229892723,
+                "lng": -35.74168317989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Shell",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 3472,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110745053517020559063\">Roland Freire</a>"
+             ],
+             "photo_reference": "Aap_uEAGUh0ELCUuYv_geCkfDgeim8f1p3wUftLt6L29gbVDYe2K2B-GHkZISXPtMRenkbZ7Wd24MPjdlKn4FBqDXK6Zdsuqdnt14zm9zsJ3uQkW1cTnhrC9JvxvFwIgBqps3ve4xM8Ap93nTetzBjtu9KqPJFQPQqsSEsITg3radT9ro6Uw",
+             "width": 3472
+          }
+       ],
+       "place_id": "ChIJLVKpkcJPAQcR-a2KdBgTiVI",
+       "plus_code": {
+          "compound_code": "87H5+WV Centro, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687H5+WV"
+       },
+       "price_level": 2,
+       "rating": 4.2,
+       "reference": "ChIJLVKpkcJPAQcR-a2KdBgTiVI",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 592,
+       "vicinity": "Av. Assis Chateaubriand, 2340 - Centro, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.658104699999999,
+             "lng": -35.7182928
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.65674147010728,
+                "lng": -35.71694392010728
+             },
+             "southwest": {
+                "lat": -9.659441129892723,
+                "lng": -35.71964357989273
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Presidente Agostinho Da Silva Neves",
+       "opening_hours": {
+          "open_now": true
+       },
+       "place_id": "ChIJs_43-qFFAQcRFU8r10weVu8",
+       "plus_code": {
+          "compound_code": "87RJ+QM Po\u00e7o, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687RJ+QM"
+       },
+       "rating": 3.5,
+       "reference": "ChIJs_43-qFFAQcRFU8r10weVu8",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 6,
+       "vicinity": "R. Pres. Agostinho da Silva Neves, 872 - Po\u00e7o, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6537948,
+             "lng": -35.739489
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.652342270107278,
+                "lng": -35.73832842010727
+             },
+             "southwest": {
+                "lat": -9.655041929892722,
+                "lng": -35.74102807989271
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Shell + GNV",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 1908,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104231338874929041187\">Cl\u00e1udio Lima</a>"
+             ],
+             "photo_reference": "Aap_uEBmWI_i9C23fqP-V6TPov4zRwotjtzlQd9tb0018owz2W-T9Y927wzsxRfD2lr7eH2dgukSEN47j1UgVyq7LR071wuPCGls-zNuizpKrmxpiswZX0eEX6S9yvG5DftKQ6smsInW5htYF09PtbOCRfDvG5hJUvuWXigDxlS6kpkzzuVC",
+             "width": 4032
+          }
+       ],
+       "place_id": "ChIJHax3bIdFAQcRcXmYyK0CJfg",
+       "plus_code": {
+          "compound_code": "87W6+G5 Centro, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687W6+G5"
+       },
+       "price_level": 2,
+       "rating": 4,
+       "reference": "ChIJHax3bIdFAQcRcXmYyK0CJfg",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 156,
+       "vicinity": "Av. Gov. Afr\u00e2nio Lages, 100 - Centro, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.670230100000001,
+             "lng": -35.7163476
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.668831470107277,
+                "lng": -35.71505677010727
+             },
+             "southwest": {
+                "lat": -9.67153112989272,
+                "lng": -35.71775642989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Auto Posto Tigre Jangadeiros",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 4032,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117647272586784113530\">Fl\u00e1vio Primo</a>"
+             ],
+             "photo_reference": "Aap_uEBzY5V7jBITWjDLTIHL14fji7uWlYtPyaeiTkrUyZekfGVr5btq4N5Da7VcbaY_F-5InZNwiZW1Gh3spyZ35COkzNrpC3Lrhra78qY47Skh_UhVYAoRjKk4V1GtoAQbcni8HTHWcCan8pLRG_ntqf5quvLjlEIe6ZLJ3ZFk5QckDFHH",
+             "width": 3024
+          }
+       ],
+       "place_id": "ChIJKZlJBg1FAQcRI7rZPnwj2_o",
+       "plus_code": {
+          "compound_code": "87HM+WF Paju\u00e7ara, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687HM+WF"
+       },
+       "rating": 4.2,
+       "reference": "ChIJKZlJBg1FAQcRI7rZPnwj2_o",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 147,
+       "vicinity": "R. Jangadeiros Alagoanos, 460 - A - Paju\u00e7ara, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6626625,
+             "lng": -35.7469086
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.66126002010728,
+                "lng": -35.74556392010728
+             },
+             "southwest": {
+                "lat": -9.663959679892724,
+                "lng": -35.74826357989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Lima",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 4160,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100220855092683758956\">Daniel Melo</a>"
+             ],
+             "photo_reference": "Aap_uED-HVf7AOZjkXO4PB9O5Y9x1f-Oa-pNM4IukIswErutZGCHfTHDkQBWmg7bhYsBiwkTIQIo8V4JpWimXRTAVWhWZ_fVLDTpkOCE8Fh3Z14tqelD-IDnTHbi8693XRu4lPBRFw-bAEKqgv5FZURrsmIOusoPbkImY6pR15iGTXvP7x-X",
+             "width": 3120
+          }
+       ],
+       "place_id": "ChIJZcRn6INPAQcRYhIywT3xPBc",
+       "plus_code": {
+          "compound_code": "87P3+W6 Levada, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687P3+W6"
+       },
+       "rating": 4,
+       "reference": "ChIJZcRn6INPAQcRYhIywT3xPBc",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 128,
+       "vicinity": "Pra\u00e7a das Gra\u00e7as, R. Santo Ant\u00f4nio, 07 - Levada, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.652521499999999,
+             "lng": -35.7174401
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.65114752010728,
+                "lng": -35.71612002010728
+             },
+             "southwest": {
+                "lat": -9.653847179892724,
+                "lng": -35.71881967989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Jati\u00faca",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 930,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117172717112493451936\">A Google User</a>"
+             ],
+             "photo_reference": "Aap_uEAPxHV9aI5ngzN4qgspT2CpfUsVLoStB1HECf9am6xfHidmKtgOfJXes3oPfp2F1Q_9jy7dX-86Eecc6dwdGhcoJZwWRD3IMWGVPvsAqGkr57tCojgl-tl7MlbvTIFKoKn43pdiCZ7XEGD8qbUlOgCllxhUsSEdatwwCqtXNW5-g28Q",
+             "width": 1280
+          }
+       ],
+       "place_id": "ChIJFeDzVVJFAQcRC_5dHZvTFJg",
+       "plus_code": {
+          "compound_code": "87WM+X2 Jati\u00faca, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687WM+X2"
+       },
+       "rating": 4.3,
+       "reference": "ChIJFeDzVVJFAQcRC_5dHZvTFJg",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 124,
+       "vicinity": "Av. Dona Constan\u00e7a de G\u00f3es Monteiro, 907-673 - Jati\u00faca, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.668688699999999,
+             "lng": -35.7471109
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.667299370107276,
+                "lng": -35.74579282010728
+             },
+             "southwest": {
+                "lat": -9.66999902989272,
+                "lng": -35.74849247989273
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Master",
+       "opening_hours": {
+          "open_now": true
+       },
+       "place_id": "ChIJC0eiEIZPAQcRmuH5bNgCQyg",
+       "plus_code": {
+          "compound_code": "87J3+G5 Prado, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692687J3+G5"
+       },
+       "rating": 3.9,
+       "reference": "ChIJC0eiEIZPAQcRmuH5bNgCQyg",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 46,
+       "vicinity": "Av. Siqueira Campos, 721 - Prado, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.646059,
+             "lng": -35.7345251
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.644696120107277,
+                "lng": -35.73310737010728
+             },
+             "southwest": {
+                "lat": -9.64739577989272,
+                "lng": -35.73580702989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Shell",
+       "opening_hours": {
+          "open_now": true
+       },
+       "place_id": "ChIJDXU04iVFAQcR_CE9VQYbieI",
+       "plus_code": {
+          "compound_code": "9738+H5 Farol, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "69269738+H5"
+       },
+       "rating": 2,
+       "reference": "ChIJDXU04iVFAQcR_CE9VQYbieI",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 1,
+       "vicinity": "Av. Fernandes Lima, 533 - Farol, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.6709213,
+             "lng": -35.750257
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.669559970107278,
+                "lng": -35.74886832010728
+             },
+             "southwest": {
+                "lat": -9.672259629892721,
+                "lng": -35.75156797989273
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Lava jato do Sinal",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 2592,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104700351857040397379\">Samyr R\u00eago</a>"
+             ],
+             "photo_reference": "Aap_uEBrTjKAYz4bwRFwq7TKT1Dk7MtkiTARZNbJ5SZTtWGwQd98cFORXHzIigC_WQSzhg6nac9SS0N4UGgMY09Bt4ynMjJBwH3VWgRRY53S3pau9txLhN-faiQtk6Xegzk8D1vu0O6CJYnHaO70tqFFpKbCFL5aQmKAKBxxfP7Khz7wzt7G",
+             "width": 1458
+          }
+       ],
+       "place_id": "ChIJBS7ZemxPAQcRlWQvxxY0CxI",
+       "plus_code": {
+          "compound_code": "86HX+JV Prado, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "692686HX+JV"
+       },
+       "rating": 4.5,
+       "reference": "ChIJBS7ZemxPAQcRlWQvxxY0CxI",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 4,
+       "vicinity": "R. Edgar de G\u00f3es Monteiro, 664 - Prado, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.645111499999999,
+             "lng": -35.7131138
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.643818520107276,
+                "lng": -35.71171242010728
+             },
+             "southwest": {
+                "lat": -9.64651817989272,
+                "lng": -35.71441207989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Extra - Macei\u00f3",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 3120,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104909135097720697822\">Paulo Chen</a>"
+             ],
+             "photo_reference": "Aap_uEBFHJfVU76el3vRSE95qd2fl_wSK-flXu-EnLYmOpn8wadoO40JMz6T0rgZyTgeARCanqeoyzl6I6Xh_xZf4WovKo-U431bT4TLvM4Z-9jiEu1PC3byaPphiqJKEm8ylD6jKYpA1vfa5U6WO6TKP5AKWcaw24LXe0J6jHLe0fDd2OHw",
+             "width": 4160
+          }
+       ],
+       "place_id": "ChIJ91VKJNJFAQcRLaYqqsRJqVM",
+       "plus_code": {
+          "compound_code": "973P+XQ Cruz das Almas, Macei\u00f3 - State of Alagoas, Brazil",
+          "global_code": "6926973P+XQ"
+       },
+       "rating": 4.2,
+       "reference": "ChIJ91VKJNJFAQcRLaYqqsRJqVM",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 672,
+       "vicinity": "Av. Comendador Gustavo Paiva, 3393 - Cruz das Almas, Macei\u00f3"
+    },
+    {
+       "business_status": "OPERATIONAL",
+       "geometry": {
+          "location": {
+             "lat": -9.644477,
+             "lng": -35.713664
+          },
+          "viewport": {
+             "northeast": {
+                "lat": -9.643087320107277,
+                "lng": -35.71230467010727
+             },
+             "southwest": {
+                "lat": -9.645786979892721,
+                "lng": -35.71500432989272
+             }
+          }
+       },
+       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+       "icon_background_color": "#909CE1",
+       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+       "name": "Posto Extra",
+       "opening_hours": {
+          "open_now": true
+       },
+       "photos": [
+          {
+             "height": 3456,
+             "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101252518899852369423\">Robson Carlos</a>"
+             ],
+             "photo_reference": "Aap_uEDoduSPs7BuYiV-86fhHzZXMuKeaWjnk6KVw8Kggxb55Ye154yVEECxEccOh11WRaHCDbY8Ly7VlcTXJk0vPmTa8RL8it1zOiagA8zkI6bUwf9yIp8LmLiuDf3379TMODeNe3XN9cMjZEUdkIGg0iNbsoV5Yl23VwQywNs9XgKz9h_A",
+             "width": 4608
+          }
+       ],
+       "place_id": "ChIJiQTOU79FAQcRX2j5aX7hkMU",
+       "plus_code": {
+          "compound_code": "974P+5G Macei\u00f3, State of Alagoas, Brazil",
+          "global_code": "6926974P+5G"
+       },
+       "price_level": 2,
+       "rating": 4.2,
+       "reference": "ChIJiQTOU79FAQcRX2j5aX7hkMU",
+       "scope": "GOOGLE",
+       "types": [
+          "gas_station",
+          "point_of_interest",
+          "establishment"
+       ],
+       "user_ratings_total": 295,
+       "vicinity": "Av. Gov. Afr\u00e2nio Lages, 117 - Mangabeiras, Macei\u00f3"
+    }
+ ],
+ "status": "OK"
+}
